@@ -14,7 +14,7 @@ def mensagem():
     message.place(x=70, y=120, relx=0, rely=0)
 
 
-pergunta = tk.Label(root, text=' Pizza hoje?')
+pergunta = tk.Label(root, text=' Quer namorar comigo?')
 pergunta.pack(anchor='n', pady=20)
 
 nao = tk.Button(root, text='Não')
